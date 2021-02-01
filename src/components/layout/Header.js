@@ -16,7 +16,7 @@ const Header = (props) => {
           <ul className="navbar-nav mr-auto">
             <li className="av-item">
               <Link to="/" className="nav-link">
-                <i className="fas fa-home" /> Sweet Home
+                <i className="fas fa-home" /> Home
               </Link>
             </li>
             <li className="av-item">
