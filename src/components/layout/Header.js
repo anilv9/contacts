@@ -21,7 +21,7 @@ const Header = (props) => {
             </li>
             <li className="av-item">
               <Link to="/contact/add" className="nav-link">
-                <i className="fas fa-plus" /> Add
+                <i className="fas fa-plus" /> Add Contact
               </Link>
             </li>
             <li className="av-item">
